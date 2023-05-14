@@ -3,7 +3,10 @@
 --- !u!78 &1
 TagManager:
   serializedVersion: 2
-  tags: []
+  tags:
+  - Racket
+  - "\u7246\u58C1"
+  - "\u7403"
   layers:
   - Default
   - TransparentFX
